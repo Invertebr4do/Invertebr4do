@@ -32,7 +32,6 @@ Entusiasta de la ciberseguridad, jugador de CTF, autodidacta
 <h3 align="center"> 🤝 Contactame </h3>
 
 <p align="center">
-
 <a href="https://Invertebr4do.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Invertebr4do.github.io-blue?style=flat&logo=google-chrome"></a>
 <a href="mailto:inverterb4do@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-invertebr4do@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
