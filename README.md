@@ -15,7 +15,7 @@ Entusiasta de la ciberseguridad, jugador de CTF, autodidacta
 
 ### Lenguajes de programación 🌐
 
-| [<img src="https://github.com/Invertebr4do/invertebr4do.github.io/blob/master/assets/images/tratamiento-de-tty/Bash.png" alt="Bash" width="24">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="38">](https://python.com/)
+| [<img src="https://github.com/Invertebr4do/invertebr4do.github.io/blob/master/assets/images/tratamiento-de-tty/Bash.png" alt="Bash" width="24">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="38">](https://www.python.org/)
 |---|---|
  
 ### OS de trabajo 🛠️
