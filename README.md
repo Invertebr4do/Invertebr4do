@@ -1,16 +1,40 @@
-### Hi there 👋
 
+<h1 align="center">Invertebr4do</h1>
+
+### Hola 👋 soy [Invertebr4do](https://Invertebr4do.github.io)
+> Estudiante Bachiller
+
+
+<img src="https://komarev.com/ghpvc/?username=Invertebr4do" alt="Invertebr4do" />
+
+<div>
+ <p>
+Entusiasta de la ciberseguridad, jugador de CTF, autodidacta
+</p>
+</div>
+
+### Lenguajes de programación 🌐
+
+| [<img src="https://github.com/Invertebr4do/invertebr4do.github.io/blob/master/assets/images/tratamiento-de-tty/Bash.png" alt="Bash" width="24">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="38">](https://python.com/)
+|---|---|
+ 
+### OS de trabajo 🛠️
+
+| [<img src="https://github.com/Invertebr4do/Invertebr4do/blob/main/kali.png" alt="kali" width="24">](https://www.kali.org/) |
+|---|
+
+### Estadisticas de Github
+
+[![Invertebr4do GitHub Stats](https://github-readme-stats.vercel.app/api?username=Invertebr4do&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Invertebr4do)
+
+<hr>
+
+<h3 align="center"> 🤝 Contactame </h3>
+
+<p align="center">
 <!--
-**Invertebr4do/Invertebr4do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://andresramosr.github.io/HojaDeVida/" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-andresramosr.github.io/HojaDeVida-blue?style=flat&logo=google-chrome"></a>
 -->
+<a href="https://Invertebr4do.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Invertebr4do.github.io-blue?style=flat&logo=google-chrome"></a>
+<a href="mailto:inverterb4do@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-invertebr4do@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
