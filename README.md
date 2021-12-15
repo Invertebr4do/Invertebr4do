@@ -2,8 +2,6 @@
 <h1 align="center">Invertebr4do</h1>
 
 ### Hola 👋 soy [Invertebr4do](https://Invertebr4do.github.io)
-> Estudiante Bachiller
-
 
 <img src="https://komarev.com/ghpvc/?username=Invertebr4do" alt="Invertebr4do" />
 
