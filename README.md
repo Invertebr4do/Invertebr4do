@@ -3,13 +3,14 @@
 
 ### Hola 👋 soy [Invertebr4do](https://Invertebr4do.github.io)
 
-<img src="https://komarev.com/ghpvc/?username=Invertebr4do" alt="Invertebr4do" />
-
 <div>
  <p>
 Entusiasta de la ciberseguridad, jugador de CTF, autodidacta
 </p>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=Invertebr4do" alt="Invertebr4do" />
+<a href="https://app.hackthebox.com/users/462265" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-hackthebox Profile-green?style=flat&logo=hackthebox"></a>
 
 ### Lenguajes de programación 🌐
 
@@ -18,8 +19,8 @@ Entusiasta de la ciberseguridad, jugador de CTF, autodidacta
  
 ### OS de trabajo 🛠️
 
-| [<img src="https://github.com/Invertebr4do/Invertebr4do/blob/main/kali.png" alt="kali" width="24">](https://www.kali.org/) |
-|---|
+| [<img src="https://github.com/Invertebr4do/Invertebr4do/blob/main/img/arch.png" alt="arch" width="24">](https://www.archlinux.org/) | [<img src="https://github.com/Invertebr4do/Invertebr4do/blob/main/img/kali.png" alt="kali" width="24">](https://www.kali.org/)
+|---|---|
 
 ### Estadisticas de Github
 
