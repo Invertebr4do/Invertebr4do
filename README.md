@@ -5,7 +5,7 @@
 
 <div>
  <p>
-Entusiasta de la ciberseguridad, jugador de CTF, autodidacta
+Entusiasta de la ciberseguridad, CTF player
 </p>
 </div>
 
