@@ -5,7 +5,7 @@
 
 <div>
  <p>
-eJPT / eCPPTv2 | Entusiasta de la ciberseguridad, CTF player
+OSWP / eCPPTv2 / eJPT / CAP | Entusiasta de la ciberseguridad, CTF player
 </p>
 </div>
 
