@@ -1,7 +1,7 @@
 
 <h1 align="center">Invertebr4do</h1>
 
-### Hola 👋 soy [Invertebr4do](https://Invertebr4do.github.io)
+### Hola 👋
 
 <div>
  <p>
