@@ -5,7 +5,7 @@
 
 <div>
  <p>
-OSWE / OSWP / eCPPTv2 / eJPT / CAP | Penetration tester, CTF player
+CAPT / OSWE / OSWP / eCPPTv2 / (C-AI/MLPen) / eJPTv1 / CSCRB / CAP | Penetration tester
 </p>
 </div>
 
